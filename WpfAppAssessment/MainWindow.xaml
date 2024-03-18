@@ -63,7 +63,7 @@
                             <TextBlock Grid.Row="2"
                                        Grid.Column="0"
                                        Padding="0,0,5,0"
-                                       Text="BulletText:" />
+                                       Text="Bullet Text:" />
                             <TextBlock Grid.Row="2"
                                        Grid.Column="1"
                                        Text="{Binding Path=bulletText}" />
@@ -79,14 +79,14 @@
                             <TextBlock Grid.Row="4"
                                        Grid.Column="0"
                                        Padding="0,0,5,0"
-                                       Text="RunningTime:" />
+                                       Text="Running Time:" />
                             <TextBlock Grid.Row="4"
                                        Grid.Column="1"
                                        Text="{Binding Path=runningTime}" />
                             <TextBlock Grid.Row="5"
                                        Grid.Column="0"
                                        Padding="0,0,5,0"
-                                       Text="ArtUrl:" />
+                                       Text="Art Url:" />
                             <TextBlock Grid.Row="5"
                                        Grid.Column="1"
                                        Text="{Binding Path=artUrl}"
